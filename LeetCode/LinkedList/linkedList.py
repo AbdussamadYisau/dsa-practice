@@ -48,6 +48,6 @@ head.next.next.next.next = Node(5)
 
 
 
-# print(head)
+print(head)
 print(middleOfLinkedList(head))
 print("pointers", middleOfLinkedListPointers(head))
